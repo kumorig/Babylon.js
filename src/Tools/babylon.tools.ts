@@ -1776,7 +1776,7 @@
         private _done: boolean;
 
         /**
-         * Constroctor.
+         * Constructor.
          * @param iterations the number of iterations.
          * @param _fn the function to run each iteration
          * @param _successCallback the callback that will be called upon succesful execution
